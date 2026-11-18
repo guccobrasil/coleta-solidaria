@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349324267274",
+    "project_id": "coleta-solidaria-515011-56bca",
+    "storage_bucket": "coleta-solidaria-515011-56bca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349324267274:android:9d6f3d9a79a944d83634f3",
+        "android_client_info": {
+          "package_name": "com.coletasolidaria.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXhIqdyjund4_7ZdW8UWTgjMgWZD6tuyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -65,7 +65,9 @@ dependencies {
     // Firebase BoM (Gerencia versões do Firebase automaticamente)
     implementation(platform("com.google.firebase:firebase-bom:32.7.0"))
     implementation("com.google.firebase:firebase-auth-ktx")        // RNF05
-    implementation("com.google.firebase:firebase-database-ktx")    // RNF04
+    implementation("com.google.firebase:firebase-database-ktx")
+    implementation(libs.firebase.auth)
+    implementation(libs.firebase.database)    // RNF04
 
     // Testes
     testImplementation("junit:junit:4.13.2")
